@@ -11,6 +11,7 @@
   "author": "Portezan",
   "license": "ISC",
   "dependencies": {
+    "clipboard-copy": "^4.0.1",
     "nanoid": "^5.0.6"
   },
   "type": "module",
